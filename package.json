@@ -1,16 +1,23 @@
 {
-  "name": "reactjs-tabbedpane-component",
+
+  "name": "nambathanay1-sys",
   "version": "1.0.19",
   "description": "A tabbed pane component using React.js",
-  "author": "adafycheng",
+  "author": "melda",
   "license": "MIT",
-  "repository": "adafycheng/reactjs-tabbedpane-component",
+  "repository": "ANAYkrishnaN/snykrepository",
   "main": "dist/index.js",
+
   "module": "dist/index.modern.js",
+
   "source": "src/index.js",
+
   "engines": {
+
     "node": ">=10"
+
   },
+ 
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
